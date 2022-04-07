@@ -8,8 +8,8 @@ window.Buffer = window.Buffer || require("buffer").Buffer;
 
 const S3_BUCKET = 'sohini-test-bucket';
 const REGION = 'us-west-2';
-const ACCESS_KEY = 'AKIAWL27HAFT2JHZHP62';
-const SECRET_ACCESS_KEY = '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';
+const ACCESS_KEY = '';
+const SECRET_ACCESS_KEY = '';
 
 
 const config = {
